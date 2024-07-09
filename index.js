@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Array to store shopping list items
-    let shoppingList = [];
+    let shoppingList = [shoes,books,pens,sweater];
   
     // Get references to DOM elements
     const addItemBtn = document.getElementById("addItemBtn");
